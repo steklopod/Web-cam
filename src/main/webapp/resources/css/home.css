@@ -1,0 +1,11 @@
+h{
+	color:lightgrey;
+}
+#canvas{
+	width:0px;
+	height:0px;
+	position: absolute;
+}
+body{
+	background-color: black;
+}
